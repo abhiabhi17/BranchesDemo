@@ -18,6 +18,10 @@ public class BranchesDemoApplication {
         return "Branches demo";
     }
 
+    public void this_is_dev()
+    {
+        System.out.println("this is from dev");
+    }
     public static void main(String[] args) {
         SpringApplication.run(BranchesDemoApplication.class, args);
 
