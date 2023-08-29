@@ -33,10 +33,6 @@ public class BranchesDemoApplication {
         System.out.println("this is from master");
 
     }
-    public  void issue1()
-    {
-        System.out.println("This is from master issue1");
-    }
 
     public void push_to_dev_and_qat_and_prod()
     {
