@@ -20,7 +20,7 @@ public class BranchesDemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(BranchesDemoApplication.class, args);
         System.out.println("This is master branch");
-        System.out.println("Hello");
+        System.out.println("this is from dev before merge");
     }
 
 }
