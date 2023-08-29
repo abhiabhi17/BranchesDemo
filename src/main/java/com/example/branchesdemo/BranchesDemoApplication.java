@@ -21,6 +21,7 @@ public class BranchesDemoApplication {
         SpringApplication.run(BranchesDemoApplication.class, args);
         System.out.println("This is master branch");
         System.out.println("this is from dev before merge");
+        System.out.println("This is devl brnh");
     }
 
 }
