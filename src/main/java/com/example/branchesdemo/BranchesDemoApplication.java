@@ -26,6 +26,11 @@ public class BranchesDemoApplication {
     {
         System.out.println("this is from dev");
     }
+    public void this_is_master_2()
+    {
+        System.out.println("this is from master");
+
+    }
     public static void main(String[] args) {
         SpringApplication.run(BranchesDemoApplication.class, args);
 
