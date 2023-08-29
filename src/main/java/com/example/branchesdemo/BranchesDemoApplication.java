@@ -17,7 +17,7 @@ public class BranchesDemoApplication {
     {
         return "Branches demo";
     }
-    public void qa()
+    public void thisisfromqa()
     {
         System.out.println("statred testing code");
     }
