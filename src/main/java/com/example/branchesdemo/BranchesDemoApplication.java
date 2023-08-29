@@ -18,6 +18,10 @@ public class BranchesDemoApplication {
         return "Branches demo";
     }
 
+    public void this_is_master()
+    {
+        System.out.println("This is master");
+    }
     public static void main(String[] args) {
         SpringApplication.run(BranchesDemoApplication.class, args);
 
