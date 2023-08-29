@@ -20,31 +20,9 @@ public class BranchesDemoApplication {
         return "Branches demo";
     }
 
-    public void this_is_master()
+    public  void new_requirment_from_master()
     {
-        System.out.println("This is master");
-    }
-    public void this_is_dev()
-    {
-        System.out.println("this is from dev");
-    }
-    public void this_is_master_2()
-    {
-        System.out.println("this is from master");
-
-    }
-    public  void newbugfix1()
-    {
-        System.out.println("thhis is modiefied from dev sir");
-    }
-    public  void newbugfix2()
-    {
-        System.out.println("This is from master issue-1");
-    }
-
-    public void push_to_dev_and_qat_and_prod()
-    {
-        System.out.println("This is from masster ");
+        System.out.println("tHIS IS FROM MASTER");
     }
     public static void main(String[] args) {
         SpringApplication.run(BranchesDemoApplication.class, args);
