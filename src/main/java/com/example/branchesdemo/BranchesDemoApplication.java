@@ -17,11 +17,16 @@ public class BranchesDemoApplication {
     {
         return "Branches demo";
     }
+    public void thisisfromqa()
+    {
+        System.out.println("statred testing code");
+    }
     public static void main(String[] args) {
         SpringApplication.run(BranchesDemoApplication.class, args);
         System.out.println("This is master branch");
         System.out.println("this is from dev before merge");
         System.out.println("This is devl brnh");
+
     }
 
 }
