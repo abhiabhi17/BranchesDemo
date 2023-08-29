@@ -18,6 +18,10 @@ public class BranchesDemoApplication {
         return "Branches demo";
     }
 
+    public void this_is_master()
+    {
+        System.out.println("This is master");
+    }
     public void this_is_dev()
     {
         System.out.println("this is from dev");
