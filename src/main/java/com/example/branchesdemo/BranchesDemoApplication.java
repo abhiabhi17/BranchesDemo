@@ -35,7 +35,7 @@ public class BranchesDemoApplication {
     }
     public  void newbugfix1()
     {
-        System.out.println("This is from master issue-1");
+        System.out.println("thhis is modiefied from dev sir");
     }
     public  void newbugfix2()
     {
