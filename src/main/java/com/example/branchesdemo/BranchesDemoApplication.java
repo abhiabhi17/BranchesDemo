@@ -33,7 +33,7 @@ public class BranchesDemoApplication {
         System.out.println("this is from master");
 
     }
-    public  void issue2()
+    public  void newbugfix()
     {
         System.out.println("This is from master issue-1");
     }
